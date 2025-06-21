@@ -1,0 +1,12 @@
+{
+  "name": "RONALD MCDONALD",
+  "symbol": "RMCD",
+  "description": "RONALD MCDONALD TOLD YOU TO GET A JOB",
+  "image": "https://sapphire-biological-mink-641.mypinata.cloud/ipfs/bafkreibbfuyylgywdzzo5w4ntqvbw4acudgtbieqmwzca5j4dbiql6q3py",
+  "attributes": [
+    {
+      "trait_type": "Item",
+      "value": "Developer Portal"
+    }
+  ]
+}
